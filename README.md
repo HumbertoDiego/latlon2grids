@@ -3,7 +3,7 @@ Ferramentas para conversão de Latitude e Longitude para os diversos Gris mundia
 
 Ex: 
 * Indice de Nomenclatura (INOM) utilizado pelo Sistema Cartográfico Nacional (SCN) Brasileiro;
-* Military Grid Reference System uses by NATO militaries; e 
+* Military Grid Reference System used by NATO militaries; e 
 * XYZ Tiles
 
 ## Implementado
