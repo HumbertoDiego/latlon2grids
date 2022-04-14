@@ -128,11 +128,11 @@ def main(lat:float=0,lon:float=0):
     abcd = ''.join(set(ac_bd).intersection(ab_cd))
     inom250k = inom500k+"-"+abcd
     iiiiiiivvvi = ''.join(set(iiv_iiv_iiivi.split("_")).intersection(iiiiii_ivvvi.split("_")))
-    inom100k = inom250k + iiiiiiivvvi
+    inom100k = inom250k+"-"+iiiiiiivvvi
     umdoistresquatro = ''.join(set(umtres_doisquatro).intersection(umdois_tresquatro))
-    inom50k = inom100k + umdoistresquatro
+    inom50k = inom100k+"-"+umdoistresquatro
     nonesose = ''.join(set(noso_nese.split("_")).intersection(none_sose.split("_")))
-    inom25k  = inom50k + nonesose
+    inom25k  = inom50k+"-"+ nonesose
     print(hemisferio+alfa+"-"+fuso+"-"+vxyz+"-"+abcd+"-"+iiiiiiivvvi+"-"+umdoistresquatro+"-"+nonesose)
     return inom25k,inom50k,inom100k,inom250k,inom500k,inom1m
 
