@@ -12,3 +12,8 @@ Ex:
 python3 latlon2inom.py 5.3283 -60.1725
 NB-20-Z-B-VI-2-SO
 ```
+* latlon2inom.js
+```
+main(5.3283 -60.1725); 
+NB-20-Z-B-VI-2-SO
+```
