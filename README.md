@@ -1,5 +1,5 @@
 # latlon2grids
-Ferramentas para conversão de Latitude e Longitude para os diversos Gris mundiais. 
+Ferramentas para conversão de Latitude e Longitude para os diversos Grids mundiais. 
 
 Ex: 
 * Indice de Nomenclatura (INOM) utilizado pelo Sistema Cartográfico Nacional (SCN) Brasileiro;
